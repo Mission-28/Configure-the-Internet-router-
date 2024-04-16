@@ -1,6 +1,8 @@
 # Configure-the-Internet-router-
 **Custom Defence System**
 
+_This is a 24 week project where me with my 4 other fellow school mates are going to work with the client on this project_
+
 **Background**
 
 The Gippsland Portal is a Victorian regional website that aggregates news from
